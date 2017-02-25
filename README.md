@@ -1,3 +1,3 @@
-# edgehog
+# edgehog (v0.1.0)
 jonathan torres
-version 1.0.1
+
